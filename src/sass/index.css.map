@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,YAAY,CAAC;EACX,gBAAgB,EAAE,OAAiB;CACpC",
+    "sources": [
+        "index.scss",
+        "_search-form.scss"
+    ],
+    "names": [],
+    "file": "index.css"
+}
